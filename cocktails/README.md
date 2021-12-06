@@ -9,5 +9,6 @@
 ```
 
 "build": "CI= react-scripts build",
+in package.json scripts
 
 ```
